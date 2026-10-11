@@ -1,0 +1,3 @@
+# Only needed to (re)train the AI risk model: `python ml.py train`. The API server does not import pandas.
+-r requirements.txt
+pandas>=2.2

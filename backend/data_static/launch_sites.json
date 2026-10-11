@@ -1,0 +1,1204 @@
+{
+ "version": 1,
+ "compiled_utc": "2026-10-11",
+ "note": "Coordinates from the cited source (usually Wikipedia, which cites operators) and cross-checked against OpenStreetMap; coord_approx marks low-precision or representative points. Facts not found in a source were left out.",
+ "sites": [
+  {
+   "id": "sdsc",
+   "name": "Satish Dhawan Space Centre",
+   "short_name": "SDSC SHAR",
+   "aliases": [
+    "Sriharikota",
+    "SHAR",
+    "ISRO",
+    "Sriharikota Range",
+    "SDSC"
+   ],
+   "country": "India",
+   "operator": "ISRO",
+   "lat": 13.72,
+   "lon": 80.23,
+   "coord_approx": true,
+   "coord_note": "Source gives 0.01° precision (about 1 km).",
+   "status": "operational",
+   "launch_pads": "First Launch Pad (FLP) and Second Launch Pad (SLP)",
+   "rockets": [
+    "PSLV",
+    "GSLV",
+    "LVM3",
+    "SSLV",
+    "SLV-3 (retired)",
+    "ASLV (retired)"
+   ],
+   "first_orbital_launch_year": 1979,
+   "first_orbital_note": "10 Aug 1979: SLV-3 with Rohini (did not reach a lasting orbit); first success 18 Jul 1980.",
+   "notable_missions": [
+    "Chandrayaan-1",
+    "Chandrayaan-2",
+    "Chandrayaan-3",
+    "Mars Orbiter Mission",
+    "Aditya-L1",
+    "XPoSat"
+   ],
+   "why": "East-coast island near the equator: eastward launches over the Bay of Bengal and a large uninhabited safety zone.",
+   "source_url": "https://www.isro.gov.in/SDSC.html",
+   "sources": [
+    "https://www.isro.gov.in/SDSC.html",
+    "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre"
+   ],
+   "official_url": "https://www.shar.gov.in/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 6.02
+   },
+   "indian": true
+  },
+  {
+   "id": "terls",
+   "name": "Thumba Equatorial Rocket Launching Station",
+   "short_name": "TERLS",
+   "aliases": [
+    "Thumba",
+    "VSSC",
+    "ISRO",
+    "Thiruvananthapuram"
+   ],
+   "country": "India",
+   "operator": "ISRO (Vikram Sarabhai Space Centre)",
+   "lat": 8.53344,
+   "lon": 76.86729,
+   "coord_approx": false,
+   "coord_note": "Pad 1.",
+   "status": "operational",
+   "launch_pads": "Five sounding-rocket pads",
+   "rockets": [
+    "Sounding rockets (RH series)"
+   ],
+   "first_orbital_launch_year": null,
+   "first_orbital_note": "No orbital launches: sounding rockets only. Established 21 Nov 1963.",
+   "notable_missions": [
+    "India's first rocket launching station (1963)",
+    "RH-75, first Indian-designed rocket (20 Nov 1967)"
+   ],
+   "why": "Very close to Earth's magnetic equator.",
+   "source_url": "https://en.wikipedia.org/wiki/Thumba_Equatorial_Rocket_Launching_Station",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Thumba_Equatorial_Rocket_Launching_Station"
+   ],
+   "official_url": "https://www.vssc.gov.in/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 1.03
+   },
+   "indian": true
+  },
+  {
+   "id": "kulasekarapattinam",
+   "name": "SSLV Launch Complex, Kulasekarapattinam",
+   "short_name": "SLC Kulasekarapattinam",
+   "aliases": [
+    "Kulasekarapattinam",
+    "Kulasekharapatnam",
+    "ISRO",
+    "SSLV",
+    "Thoothukudi"
+   ],
+   "country": "India",
+   "operator": "ISRO",
+   "lat": 8.36123,
+   "lon": 78.01572,
+   "coord_approx": false,
+   "coord_note": "Launch complex.",
+   "status": "under construction",
+   "launch_pads": "One SSLV launch pad (under construction)",
+   "rockets": [
+    "SSLV (planned)"
+   ],
+   "first_orbital_launch_year": null,
+   "first_orbital_note": "No orbital launch yet. Construction began 5 Mar 2025; ISRO plans the first launch by Dec 2026 (per source). An RH-200 sounding rocket flew on 28 Feb 2024.",
+   "notable_missions": [],
+   "why": "Polar launches can fly south directly, without the eastward detour Sriharikota needs to avoid Sri Lanka.",
+   "source_url": "https://en.wikipedia.org/wiki/SSLV_Launch_Complex",
+   "sources": [
+    "https://en.wikipedia.org/wiki/SSLV_Launch_Complex"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 5.83
+   },
+   "indian": true
+  },
+  {
+   "id": "ccsfs",
+   "name": "Cape Canaveral Space Force Station",
+   "short_name": "CCSFS",
+   "aliases": [
+    "Cape Canaveral",
+    "Eastern Range",
+    "Space Force",
+    "Florida"
+   ],
+   "country": "United States",
+   "operator": "US Space Force (Space Launch Delta 45)",
+   "lat": 28.48889,
+   "lon": -80.57778,
+   "coord_approx": false,
+   "coord_note": "Station reference point.",
+   "status": "operational",
+   "launch_pads": "Five active launch complexes, incl. SLC-40, SLC-41 and LC-36",
+   "rockets": [
+    "Falcon 9 (SLC-40)",
+    "Atlas V",
+    "Vulcan Centaur (SLC-41)",
+    "New Glenn (LC-36)",
+    "Titan (past)",
+    "Delta (past)"
+   ],
+   "first_orbital_launch_year": 1957,
+   "first_orbital_note": "6 Dec 1957: Vanguard TV-3 (exploded on the pad); first US satellite 1958.",
+   "notable_missions": [
+    "First US Earth satellite (1958)",
+    "First US astronaut in orbit (1962)",
+    "Viking and Voyager (Titan-Centaur, LC-41)"
+   ],
+   "why": "Launches out over the Atlantic, and closer to the equator than most of the US.",
+   "source_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Force_Station",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Force_Station"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 1.27
+   },
+   "indian": false
+  },
+  {
+   "id": "ksc",
+   "name": "Kennedy Space Center",
+   "short_name": "KSC LC-39",
+   "aliases": [
+    "Kennedy",
+    "NASA",
+    "LC-39A",
+    "Merritt Island",
+    "Florida"
+   ],
+   "country": "United States",
+   "operator": "NASA (LC-39A leased to SpaceX)",
+   "lat": 28.60839,
+   "lon": -80.60433,
+   "coord_approx": false,
+   "coord_note": "Launch Complex 39.",
+   "status": "operational",
+   "launch_pads": "LC-39A, LC-39B, LC-39C",
+   "rockets": [
+    "Falcon 9",
+    "Falcon Heavy",
+    "Space Launch System",
+    "Saturn V (past)",
+    "Space Shuttle (past)"
+   ],
+   "first_orbital_launch_year": 1967,
+   "first_orbital_note": "First LC-39 launch: Saturn V with uncrewed Apollo 4, 1967.",
+   "notable_missions": [
+    "Apollo",
+    "Skylab",
+    "Space Shuttle",
+    "Artemis"
+   ],
+   "why": "Southern latitude gives a velocity advantage for easterly launches; on the Intracoastal Waterway.",
+   "source_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39",
+    "https://en.wikipedia.org/wiki/Kennedy_Space_Center"
+   ],
+   "official_url": "https://www.nasa.gov/kennedy/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.03
+   },
+   "indian": false
+  },
+  {
+   "id": "vandenberg",
+   "name": "Vandenberg Space Force Base",
+   "short_name": "Vandenberg",
+   "aliases": [
+    "Vandenberg",
+    "Western Range",
+    "California",
+    "Space Force"
+   ],
+   "country": "United States",
+   "operator": "US Space Force (Space Launch Delta 30)",
+   "lat": 34.75133,
+   "lon": -120.52023,
+   "coord_approx": false,
+   "coord_note": "Base reference point.",
+   "status": "operational",
+   "launch_pads": "Multiple, incl. SLC-4E, SLC-3E and SLC-6",
+   "rockets": [
+    "Falcon 9 (SLC-4E)",
+    "Atlas V (SLC-3E)",
+    "Delta IV (past)"
+   ],
+   "first_orbital_launch_year": 1959,
+   "first_orbital_note": "28 Feb 1959: Discoverer 1, described by the source as the first polar-orbit satellite.",
+   "notable_missions": [
+    "Discoverer / CORONA",
+    "Discoverer XIII: first object recovered from orbit (1960)"
+   ],
+   "why": "Polar orbits launched south over the Pacific without crossing land until Antarctica.",
+   "source_url": "https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 5.23
+   },
+   "indian": false
+  },
+  {
+   "id": "wallops",
+   "name": "Wallops Flight Facility / Mid-Atlantic Regional Spaceport",
+   "short_name": "Wallops / MARS",
+   "aliases": [
+    "Wallops",
+    "MARS",
+    "Virginia Spaceport",
+    "NASA",
+    "Wallops Island"
+   ],
+   "country": "United States",
+   "operator": "NASA (Wallops) and Virginia Spaceport Authority (MARS)",
+   "lat": 37.833959,
+   "lon": -75.4878331,
+   "coord_approx": false,
+   "coord_note": "MARS Launch Pad 0A.",
+   "status": "operational",
+   "launch_pads": "LP-0A, LP-0B, LP-0C (Rocket Lab LC-2), LP-0D (LC-3)",
+   "rockets": [
+    "Antares",
+    "Minotaur I",
+    "Minotaur IV",
+    "Electron",
+    "Scout (past)"
+   ],
+   "first_orbital_launch_year": 1961,
+   "first_orbital_note": "15 Feb 1961: Explorer IX on a Scout, the first payload into orbit from Wallops Island.",
+   "notable_missions": [
+    "Explorer IX (1961)",
+    "Cygnus ISS resupply on Antares"
+   ],
+   "why": null,
+   "source_url": "https://en.wikipedia.org/wiki/Wallops_Flight_Facility",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wallops_Flight_Facility",
+    "https://en.wikipedia.org/wiki/Mid-Atlantic_Regional_Spaceport"
+   ],
+   "official_url": "https://www.nasa.gov/wallops/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 2.81
+   },
+   "indian": false
+  },
+  {
+   "id": "starbase",
+   "name": "SpaceX Starbase",
+   "short_name": "Starbase",
+   "aliases": [
+    "Boca Chica",
+    "SpaceX",
+    "Starship",
+    "Texas"
+   ],
+   "country": "United States",
+   "operator": "SpaceX",
+   "lat": 25.997,
+   "lon": -97.157,
+   "coord_approx": false,
+   "coord_note": "Launch site.",
+   "status": "operational",
+   "launch_pads": "Orbital launch site (OLS)",
+   "rockets": [
+    "Starship"
+   ],
+   "first_orbital_launch_year": null,
+   "first_orbital_note": "First Starship integrated flight test 20 Apr 2023 (orbital-class vehicle); not counted here as an orbital launch.",
+   "notable_missions": [
+    "Starship integrated flight tests (from 2023)"
+   ],
+   "why": "Chosen in 2014 as SpaceX's own non-governmental launch site.",
+   "source_url": "https://en.wikipedia.org/wiki/SpaceX_Starbase",
+   "sources": [
+    "https://en.wikipedia.org/wiki/SpaceX_Starbase"
+   ],
+   "official_url": "https://www.spacex.com/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.24
+   },
+   "indian": false
+  },
+  {
+   "id": "kodiak",
+   "name": "Pacific Spaceport Complex – Alaska",
+   "short_name": "PSCA Kodiak",
+   "aliases": [
+    "Kodiak",
+    "Kodiak Launch Complex",
+    "Alaska"
+   ],
+   "country": "United States",
+   "operator": "Alaska Aerospace Corporation",
+   "lat": 57.43528,
+   "lon": -152.34,
+   "coord_approx": false,
+   "coord_note": "Spaceport.",
+   "status": "operational",
+   "launch_pads": "Two: pad 1 orbital, pad 2 sub-orbital",
+   "rockets": [
+    "Athena I",
+    "Minotaur IV",
+    "Rocket 3 (Astra)",
+    "RS1"
+   ],
+   "first_orbital_launch_year": 2001,
+   "first_orbital_note": "30 Sep 2001: Athena I, Kodiak Star mission for NASA.",
+   "notable_missions": [
+    "Kodiak Star (2001)"
+   ],
+   "why": null,
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska"
+   ],
+   "official_url": "https://akaerospace.com/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 1.74
+   },
+   "indian": false
+  },
+  {
+   "id": "baikonur",
+   "name": "Baikonur Cosmodrome",
+   "short_name": "Baikonur",
+   "aliases": [
+    "Tyuratam",
+    "Gagarin's Start",
+    "Roscosmos",
+    "Kazakhstan"
+   ],
+   "country": "Kazakhstan (leased by Russia)",
+   "operator": "Roscosmos and Russian Aerospace Forces",
+   "lat": 45.965,
+   "lon": 63.305,
+   "coord_approx": true,
+   "coord_note": "Representative point of a very large complex.",
+   "status": "operational",
+   "launch_pads": "Numerous launch complexes",
+   "rockets": [
+    "Soyuz",
+    "Energia (past)"
+   ],
+   "first_orbital_launch_year": 1957,
+   "first_orbital_note": "4 Oct 1957: Sputnik 1, the first artificial satellite.",
+   "notable_missions": [
+    "Sputnik 1 (1957)",
+    "Luna 1 (1959)",
+    "Vostok 1, Gagarin (1961)",
+    "All Russian crewed flights"
+   ],
+   "why": "Its latitude and the border set the ISS's 51.6° inclination: the lowest Soyuz can reach from here without overflying China.",
+   "source_url": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 9.56
+   },
+   "indian": false
+  },
+  {
+   "id": "plesetsk",
+   "name": "Plesetsk Cosmodrome",
+   "short_name": "Plesetsk",
+   "aliases": [
+    "Mirny",
+    "Arkhangelsk",
+    "Russia"
+   ],
+   "country": "Russia",
+   "operator": "Russian Ministry of Defence",
+   "lat": 62.92556,
+   "lon": 40.57778,
+   "coord_approx": false,
+   "coord_note": "Cosmodrome.",
+   "status": "operational",
+   "launch_pads": "Multiple, incl. Site 35/1 (Angara)",
+   "rockets": [
+    "Soyuz",
+    "Angara",
+    "Rokot",
+    "Kosmos-3M",
+    "Tsyklon"
+   ],
+   "first_orbital_launch_year": 1966,
+   "first_orbital_note": "17 Mar 1966: Vostok booster with Kosmos 112.",
+   "notable_missions": [
+    "Kosmos 112 (1966)",
+    "Angara maiden flight (2014)"
+   ],
+   "why": "High latitude suits high-inclination, polar and Molniya orbits; debris falls over the empty Arctic.",
+   "source_url": "https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 2.42
+   },
+   "indian": false
+  },
+  {
+   "id": "vostochny",
+   "name": "Vostochny Cosmodrome",
+   "short_name": "Vostochny",
+   "aliases": [
+    "Amur",
+    "Roscosmos",
+    "Russia"
+   ],
+   "country": "Russia",
+   "operator": "Roscosmos",
+   "lat": 51.88455,
+   "lon": 128.33478,
+   "coord_approx": false,
+   "coord_note": "Headquarters.",
+   "status": "operational",
+   "launch_pads": "Site 1S (Soyuz-2), Site 1A (Angara)",
+   "rockets": [
+    "Soyuz-2",
+    "Angara"
+   ],
+   "first_orbital_launch_year": 2016,
+   "first_orbital_note": "28 Apr 2016: Soyuz-2 with Mikhailo Lomonosov.",
+   "notable_missions": [
+    "Mikhailo Lomonosov (2016)"
+   ],
+   "why": "Reduces Russia's reliance on leased Baikonur, with almost the same payload capability.",
+   "source_url": "https://en.wikipedia.org/wiki/Vostochny_Cosmodrome",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Vostochny_Cosmodrome"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 3.56
+   },
+   "indian": false
+  },
+  {
+   "id": "jiuquan",
+   "name": "Jiuquan Satellite Launch Center",
+   "short_name": "JSLC",
+   "aliases": [
+    "Jiuquan",
+    "Dongfeng",
+    "Base 20",
+    "China"
+   ],
+   "country": "China",
+   "operator": "PLA Aerospace Force",
+   "lat": 40.95806,
+   "lon": 100.29111,
+   "coord_approx": false,
+   "coord_note": "South Launch Complex area.",
+   "status": "operational",
+   "launch_pads": "Two launch complexes, multiple pads",
+   "rockets": [
+    "Long March 2F",
+    "Long March 2C",
+    "Long March 2D",
+    "Long March 4B",
+    "Kuaizhou-1A",
+    "Zhuque-2",
+    "Ceres-1"
+   ],
+   "first_orbital_launch_year": 1970,
+   "first_orbital_note": "1970: Dong Fang Hong I, China's first satellite.",
+   "notable_missions": [
+    "Dong Fang Hong I (1970)",
+    "Shenzhou 5, first Chinese crewed flight (2003)",
+    "All Chinese crewed launches to date"
+   ],
+   "why": null,
+   "source_url": "https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.98
+   },
+   "indian": false
+  },
+  {
+   "id": "taiyuan",
+   "name": "Taiyuan Satellite Launch Center",
+   "short_name": "TSLC",
+   "aliases": [
+    "Taiyuan",
+    "Base 25",
+    "Shanxi",
+    "China"
+   ],
+   "country": "China",
+   "operator": "CASC",
+   "lat": 38.84909,
+   "lon": 111.6085,
+   "coord_approx": false,
+   "coord_note": "Launch center.",
+   "status": "operational",
+   "launch_pads": "Five (four active)",
+   "rockets": [
+    "Long March 4B",
+    "Long March 4C",
+    "Long March 2C",
+    "Long March 2D",
+    "Long March 6",
+    "Long March 6A"
+   ],
+   "first_orbital_launch_year": 1988,
+   "first_orbital_note": "6 Sep 1988: first launch (per the launch-pad record).",
+   "notable_missions": [
+    "Meteorological and Earth-resource satellites to Sun-synchronous orbits"
+   ],
+   "why": "Mainly Sun-synchronous orbits for weather and Earth-resource satellites.",
+   "source_url": "https://en.wikipedia.org/wiki/Taiyuan_Satellite_Launch_Center",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Taiyuan_Satellite_Launch_Center"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.29
+   },
+   "indian": false
+  },
+  {
+   "id": "xichang",
+   "name": "Xichang Satellite Launch Center",
+   "short_name": "XSLC",
+   "aliases": [
+    "Xichang",
+    "Sichuan",
+    "China"
+   ],
+   "country": "China",
+   "operator": "PLA Aerospace Force",
+   "lat": 28.2455,
+   "lon": 102.0267,
+   "coord_approx": false,
+   "coord_note": "Launch Complex 2.",
+   "status": "operational",
+   "launch_pads": "Two launch complexes (LC-2, LC-3)",
+   "rockets": [
+    "Long March 3A",
+    "Long March 3B",
+    "Long March 3C",
+    "Long March 2C"
+   ],
+   "first_orbital_launch_year": 1984,
+   "first_orbital_note": "29 Jan 1984: first launch (per the launch-pad record).",
+   "notable_missions": [
+    "Badr-1, Pakistan's first satellite (1990)",
+    "Double Star (2003)"
+   ],
+   "why": null,
+   "source_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.12
+   },
+   "indian": false
+  },
+  {
+   "id": "wenchang",
+   "name": "Wenchang Space Launch Site",
+   "short_name": "Wenchang",
+   "aliases": [
+    "Wenchang",
+    "Hainan",
+    "China"
+   ],
+   "country": "China",
+   "operator": "CASC",
+   "lat": 19.61449,
+   "lon": 110.95113,
+   "coord_approx": false,
+   "coord_note": "LC-101.",
+   "status": "operational",
+   "launch_pads": "Three, incl. LC-101 (Long March 5)",
+   "rockets": [
+    "Long March 5",
+    "Long March 5B",
+    "Long March 7",
+    "Long March 7A",
+    "Long March 8"
+   ],
+   "first_orbital_launch_year": 2016,
+   "first_orbital_note": "25 Jun 2016: Long March 7.",
+   "notable_missions": [
+    "All three Tiangong space station modules (Long March 5 family)",
+    "Tianzhou cargo (Long March 7)"
+   ],
+   "why": "China's lowest latitude (19° N): more payload, smaller plane change to geostationary orbit; deliveries by sea.",
+   "source_url": "https://en.wikipedia.org/wiki/Wenchang_Space_Launch_Site",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wenchang_Space_Launch_Site"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 1.81
+   },
+   "indian": false
+  },
+  {
+   "id": "kourou",
+   "name": "Guiana Space Centre",
+   "short_name": "CSG Kourou",
+   "aliases": [
+    "Kourou",
+    "CSG",
+    "Europe's Spaceport",
+    "ESA",
+    "CNES",
+    "Arianespace",
+    "French Guiana"
+   ],
+   "country": "France (French Guiana)",
+   "operator": "CNES (land), ESA (infrastructure), Arianespace",
+   "lat": 5.169,
+   "lon": -52.6903,
+   "coord_approx": true,
+   "coord_note": "Representative point of a large site.",
+   "status": "operational",
+   "launch_pads": "Seven over its history, incl. ELV (Vega)",
+   "rockets": [
+    "Ariane 6",
+    "Vega C",
+    "Ariane 5 (past)",
+    "Soyuz ST (past)",
+    "Diamant (past)"
+   ],
+   "first_orbital_launch_year": 1970,
+   "first_orbital_note": "10 Mar 1970: Diamant, the first satellite launch from Kourou.",
+   "notable_missions": [
+    "Ariane 5 heavy GTO launches",
+    "Ariane 6 (from 2024)"
+   ],
+   "why": "5° N with open sea to the east and north: orbits down to about 6° inclination and efficient geostationary launches.",
+   "source_url": "https://en.wikipedia.org/wiki/Guiana_Space_Centre",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Guiana_Space_Centre"
+   ],
+   "official_url": "https://centrespatialguyanais.cnes.fr/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 10.44
+   },
+   "indian": false
+  },
+  {
+   "id": "andoya",
+   "name": "Andøya Space",
+   "short_name": "Andøya",
+   "aliases": [
+    "Andoya",
+    "Andøya Spaceport",
+    "Isar Aerospace",
+    "Norway"
+   ],
+   "country": "Norway",
+   "operator": "Andøya Space (Norwegian state 90 %, Kongsberg 10 %)",
+   "lat": 69.2944,
+   "lon": 16.0198,
+   "coord_approx": false,
+   "coord_note": "Andøya rocket range (pad LC5). Orbital launches use Andøya Spaceport at Nordmela, on the same island (location not independently verified).",
+   "status": "operational",
+   "launch_pads": "Sounding-rocket range plus Andøya Spaceport orbital pad (Isar Aerospace)",
+   "rockets": [
+    "Spectrum (Isar Aerospace)",
+    "Sounding rockets"
+   ],
+   "first_orbital_launch_year": 2025,
+   "first_orbital_note": "Mar 2025: first Spectrum attempt (failed); first successful orbital launch 5 Sep 2026.",
+   "notable_missions": [
+    "Spectrum \"Onward and Upward\" (2026)",
+    "Over 1,200 sounding rockets since 1962"
+   ],
+   "why": "Polar and Sun-synchronous orbits for Earth-observation and communications satellites.",
+   "source_url": "https://en.wikipedia.org/wiki/And%C3%B8ya_Space",
+   "sources": [
+    "https://en.wikipedia.org/wiki/And%C3%B8ya_Space"
+   ],
+   "official_url": "https://andoyaspace.no/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.14
+   },
+   "indian": false
+  },
+  {
+   "id": "esrange",
+   "name": "Esrange Space Center",
+   "short_name": "Esrange",
+   "aliases": [
+    "Esrange",
+    "Kiruna",
+    "SSC",
+    "Sweden"
+   ],
+   "country": "Sweden",
+   "operator": "SSC Space",
+   "lat": 67.89389,
+   "lon": 21.10694,
+   "coord_approx": false,
+   "coord_note": "Space center.",
+   "status": "operational",
+   "launch_pads": "Six launchers plus orbital pad LC-3 (inaugurated 2023)",
+   "rockets": [
+    "Sounding rockets"
+   ],
+   "first_orbital_launch_year": null,
+   "first_orbital_note": "No orbital launch yet; orbital launch site LC-3 inaugurated 13 Jan 2023.",
+   "notable_missions": [
+    "More than 600 sounding rockets"
+   ],
+   "why": "Auroral-zone location chosen by ESRO for sounding rockets; sparse air traffic and population.",
+   "source_url": "https://en.wikipedia.org/wiki/Esrange",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Esrange"
+   ],
+   "official_url": "https://sscspace.com/esrange/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.25
+   },
+   "indian": false
+  },
+  {
+   "id": "saxavord",
+   "name": "SaxaVord Spaceport",
+   "short_name": "SaxaVord",
+   "aliases": [
+    "Shetland",
+    "Unst",
+    "Lamba Ness",
+    "UK",
+    "Scotland"
+   ],
+   "country": "United Kingdom",
+   "operator": "SaxaVord Spaceport",
+   "lat": 60.8184,
+   "lon": -0.7692,
+   "coord_approx": false,
+   "coord_note": "Spaceport.",
+   "status": "under construction",
+   "launch_pads": "Three proposed, incl. Launch Pad Fredo (Rocket Factory Augsburg)",
+   "rockets": [
+    "RFA One (planned)"
+   ],
+   "first_orbital_launch_year": null,
+   "first_orbital_note": "No launch yet: spaceport licence Dec 2023, RFA One launch licence Jan 2025.",
+   "notable_missions": [],
+   "why": "Clear northbound trajectories for polar and Sun-synchronous orbits (UK Space Agency report).",
+   "source_url": "https://en.wikipedia.org/wiki/SaxaVord_Spaceport",
+   "sources": [
+    "https://en.wikipedia.org/wiki/SaxaVord_Spaceport"
+   ],
+   "official_url": "https://saxavord.com/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.44
+   },
+   "indian": false
+  },
+  {
+   "id": "tanegashima",
+   "name": "Tanegashima Space Center",
+   "short_name": "TNSC",
+   "aliases": [
+    "Tanegashima",
+    "JAXA",
+    "Yoshinobu",
+    "Japan"
+   ],
+   "country": "Japan",
+   "operator": "JAXA",
+   "lat": 30.4,
+   "lon": 130.97,
+   "coord_approx": true,
+   "coord_note": "Source coordinate rounded to whole arc-minutes.",
+   "status": "operational",
+   "launch_pads": "Yoshinobu Launch Complex: LA-Y1, LA-Y2 (Osaki inactive)",
+   "rockets": [
+    "H3",
+    "H-IIA (past)",
+    "H-IIB (past)",
+    "N-I (past)"
+   ],
+   "first_orbital_launch_year": 1975,
+   "first_orbital_note": "Osaki complex supported N-I, N-II, H-I and J-I launches from 1975 to 1996.",
+   "notable_missions": [],
+   "why": null,
+   "source_url": "https://en.wikipedia.org/wiki/Tanegashima_Space_Center",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tanegashima_Space_Center"
+   ],
+   "official_url": "https://global.jaxa.jp/about/centers/tnsc/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 1.33
+   },
+   "indian": false
+  },
+  {
+   "id": "uchinoura",
+   "name": "Uchinoura Space Center",
+   "short_name": "USC",
+   "aliases": [
+    "Uchinoura",
+    "Kagoshima Space Center",
+    "JAXA",
+    "ISAS",
+    "Japan"
+   ],
+   "country": "Japan",
+   "operator": "JAXA",
+   "lat": 31.25194,
+   "lon": 131.08194,
+   "coord_approx": false,
+   "coord_note": "Space center.",
+   "status": "operational",
+   "launch_pads": "Mu pad and others (Kappa, Lambda, M-V)",
+   "rockets": [
+    "Epsilon",
+    "M-V (retired 2006)",
+    "Lambda 4S (past)"
+   ],
+   "first_orbital_launch_year": 1970,
+   "first_orbital_note": "11 Feb 1970: Ohsumi on Lambda 4S-5, Japan's first satellite.",
+   "notable_missions": [
+    "Ohsumi (1970)",
+    "Epsilon first flight, SPRINT-A (2013)"
+   ],
+   "why": null,
+   "source_url": "https://en.wikipedia.org/wiki/Uchinoura_Space_Center",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Uchinoura_Space_Center",
+    "https://en.wikipedia.org/wiki/Ohsumi_(satellite)"
+   ],
+   "official_url": "https://global.jaxa.jp/about/centers/usc/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.32
+   },
+   "indian": false
+  },
+  {
+   "id": "mahia",
+   "name": "Rocket Lab Launch Complex 1",
+   "short_name": "LC-1 Māhia",
+   "aliases": [
+    "Mahia",
+    "Māhia",
+    "Rocket Lab",
+    "New Zealand"
+   ],
+   "country": "New Zealand",
+   "operator": "Rocket Lab",
+   "lat": -39.26085,
+   "lon": 177.86586,
+   "coord_approx": false,
+   "coord_note": "Launch complex.",
+   "status": "operational",
+   "launch_pads": "Two",
+   "rockets": [
+    "Electron"
+   ],
+   "first_orbital_launch_year": 2017,
+   "first_orbital_note": "25 May 2017: Electron (did not reach orbit); first success 21 Jan 2018.",
+   "notable_missions": [
+    "First private spaceport to reach orbit (2018)"
+   ],
+   "why": "Good launch corridor and flight-rate opportunities with sparse air traffic.",
+   "source_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.0
+   },
+   "indian": false
+  },
+  {
+   "id": "naro",
+   "name": "Naro Space Center",
+   "short_name": "Naro",
+   "aliases": [
+    "Goheung",
+    "KARI",
+    "Nuri",
+    "South Korea",
+    "Korea"
+   ],
+   "country": "South Korea",
+   "operator": "KARI",
+   "lat": 34.43194,
+   "lon": 127.535,
+   "coord_approx": false,
+   "coord_note": "Space center.",
+   "status": "operational",
+   "launch_pads": "Two",
+   "rockets": [
+    "Nuri (KSLV-II)",
+    "Naro-1 (past)"
+   ],
+   "first_orbital_launch_year": 2009,
+   "first_orbital_note": "25 Aug 2009: Naro-1 (failed); first success 30 Jan 2013.",
+   "notable_missions": [
+    "Naro-1 success (2013)",
+    "Nuri reaches orbit (2022)"
+   ],
+   "why": null,
+   "source_url": "https://en.wikipedia.org/wiki/Naro_Space_Center",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Naro_Space_Center"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 1.1
+   },
+   "indian": false
+  },
+  {
+   "id": "palmachim",
+   "name": "Palmachim Airbase",
+   "short_name": "Palmachim",
+   "aliases": [
+    "Palmachim",
+    "Israel Space Agency",
+    "Shavit",
+    "Israel"
+   ],
+   "country": "Israel",
+   "operator": "Israeli Air Force and Israel Space Agency",
+   "lat": 31.89778,
+   "lon": 34.69056,
+   "coord_approx": true,
+   "coord_note": "Airbase reference point; the launch pad is south of the base (exact location not published).",
+   "status": "operational",
+   "launch_pads": "Launch pad south of the base",
+   "rockets": [
+    "Shavit"
+   ],
+   "first_orbital_launch_year": 1988,
+   "first_orbital_note": "19 Sep 1988: Shavit with Ofeq-1, Israel's first satellite.",
+   "notable_missions": [
+    "Ofeq-1 (1988)",
+    "Ofeq series"
+   ],
+   "why": "Geographical constraints: launches go west over the Mediterranean into retrograde orbits.",
+   "source_url": "https://en.wikipedia.org/wiki/Palmachim_Airbase",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Palmachim_Airbase",
+    "https://space.skyrocket.de/doc_sdat/ofeq-1.htm"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.16
+   },
+   "indian": false
+  },
+  {
+   "id": "alcantara",
+   "name": "Alcântara Space Center",
+   "short_name": "CEA Alcântara",
+   "aliases": [
+    "Alcantara",
+    "Brazil",
+    "Maranhão",
+    "CLA"
+   ],
+   "country": "Brazil",
+   "operator": "Brazilian Air Force (for the Brazilian Space Agency)",
+   "lat": -2.3177,
+   "lon": -44.36779,
+   "coord_approx": false,
+   "coord_note": "VLS pad.",
+   "status": "operational",
+   "launch_pads": "VLS pad, MRL sounding-rocket pad, universal pad",
+   "rockets": [
+    "Sounding rockets",
+    "VLS-1 (past)"
+   ],
+   "first_orbital_launch_year": null,
+   "first_orbital_note": "No successful orbital launch; the third VLS-1 exploded on the pad on 22 Aug 2003, killing 21.",
+   "notable_missions": [
+    "Sonda 2 XV-53, first launch (1990)"
+   ],
+   "why": "The closest launch base to the equator: well placed for geosynchronous launches.",
+   "source_url": "https://en.wikipedia.org/wiki/Alc%C3%A2ntara_Space_Center",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alc%C3%A2ntara_Space_Center"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.31
+   },
+   "indian": false
+  },
+  {
+   "id": "semnan",
+   "name": "Semnan Space Center",
+   "short_name": "Semnan",
+   "aliases": [
+    "Semnan",
+    "Imam Khomeini Spaceport",
+    "Iranian Space Agency",
+    "Iran"
+   ],
+   "country": "Iran",
+   "operator": "Iranian Space Agency",
+   "lat": 35.2346,
+   "lon": 53.9221,
+   "coord_approx": false,
+   "coord_note": "Space center.",
+   "status": "operational",
+   "launch_pads": "Circular launch platform; Imam Khomeini Space Launch Terminal (Simorgh)",
+   "rockets": [
+    "Safir",
+    "Simorgh"
+   ],
+   "first_orbital_launch_year": 2009,
+   "first_orbital_note": "2 Feb 2009: Safir with Omid, Iran's first domestically made satellite.",
+   "notable_missions": [
+    "Omid (2009)"
+   ],
+   "why": null,
+   "source_url": "https://en.wikipedia.org/wiki/Semnan_Space_Center",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Semnan_Space_Center",
+    "https://www.britannica.com/topic/Omid"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 2.7
+   },
+   "indian": false
+  },
+  {
+   "id": "sohae",
+   "name": "Sohae Satellite Launching Station",
+   "short_name": "Sohae",
+   "aliases": [
+    "Sohae",
+    "Tongchang-ri",
+    "North Korea"
+   ],
+   "country": "North Korea",
+   "operator": null,
+   "lat": 39.6601,
+   "lon": 124.7052,
+   "coord_approx": false,
+   "coord_note": "Main launch pad.",
+   "status": "operational",
+   "launch_pads": "Two orbital pads",
+   "rockets": [
+    "Unha-3",
+    "Chollima-1"
+   ],
+   "first_orbital_launch_year": 2012,
+   "first_orbital_note": "Apr 2012: Unha-3 (failed); Kwangmyongsong-3 Unit 2 reached orbit Dec 2012.",
+   "notable_missions": [
+    "Kwangmyongsong-3 Unit 2 (2012)",
+    "Malligyong-1 (Chollima-1)"
+   ],
+   "why": null,
+   "source_url": "https://en.wikipedia.org/wiki/Sohae_Satellite_Launching_Station",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sohae_Satellite_Launching_Station"
+   ],
+   "official_url": null,
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 0.52
+   },
+   "indian": false
+  },
+  {
+   "id": "bowen",
+   "name": "Bowen Orbital Spaceport",
+   "short_name": "Bowen",
+   "aliases": [
+    "Bowen",
+    "Abbot Point",
+    "Gilmour Space",
+    "Eris",
+    "Australia",
+    "Queensland"
+   ],
+   "country": "Australia",
+   "operator": "Gilmour Space Technologies",
+   "lat": -19.95998,
+   "lon": 148.1031,
+   "coord_approx": false,
+   "coord_note": "Launch vehicle position from Queensland Government maritime notices (via search index); 1.1 km from the OpenStreetMap spaceport.",
+   "status": "operational",
+   "launch_pads": "One",
+   "rockets": [
+    "Eris"
+   ],
+   "first_orbital_launch_year": 2025,
+   "first_orbital_note": "30 Jul 2025: Eris Block 1 (failed after 14 s).",
+   "notable_missions": [
+    "Eris Block 1 maiden flight (2025)"
+   ],
+   "why": "Access to 20°–65° low- to mid-inclination orbits (per Gilmour Space).",
+   "source_url": "https://en.wikipedia.org/wiki/Gilmour_Space_Technologies",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gilmour_Space_Technologies",
+    "https://www.space.gov.au/news-and-media/first-australian-commercial-orbital-launch-permit-issued"
+   ],
+   "official_url": "https://www.gspace.com/",
+   "coord_check": {
+    "method": "OpenStreetMap (Nominatim) cross-check",
+    "distance_km": 1.11
+   },
+   "indian": false
+  }
+ ]
+}
