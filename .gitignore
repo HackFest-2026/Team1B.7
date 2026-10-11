@@ -7,3 +7,9 @@ __pycache__/
 design/
 !backend/.env.example
 backend/sentinel.db*
+
+CLAUDE.md
+**/CLAUDE.md
+AGENTS.md
+**/AGENTS.md
+.claude/
